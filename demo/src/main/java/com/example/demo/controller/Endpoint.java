@@ -14,6 +14,6 @@ public class Endpoint {
 	}
 	public static void main(String[] args) {
 	
-		System.out.println("Hello Service Now");
+		System.out.println("Hello Service Now with Java");
 	}
 }
